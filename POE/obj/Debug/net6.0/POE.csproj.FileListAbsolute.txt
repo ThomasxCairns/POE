@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.AssemblyInfo.cs
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\bin\Debug\net6.0\POE.exe
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\bin\Debug\net6.0\POE.deps.json
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\bin\Debug\net6.0\POE.runtimeconfig.json
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\bin\Debug\net6.0\POE.dll
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\bin\Debug\net6.0\POE.pdb
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.dll
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\refint\POE.dll
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.pdb
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\POE.genruntimeconfig.cache
+C:\Users\thoma\source\repos\ST10181860_ICETASK1\POE\obj\Debug\net6.0\ref\POE.dll
